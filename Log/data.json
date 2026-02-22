@@ -1,0 +1,66 @@
+[
+  {
+    "id": 2,
+    "username": "deborah",
+    "age": 19,
+    "email": "deborah@gmail.com",
+    "sex": "female",
+    "password": "098765"
+  },
+  {
+    "id": 3,
+    "username": "Ferdinard",
+    "age": 23,
+    "email": "ferdinar@gmail.com",
+    "sex": "male",
+    "password": "123456"
+  },
+  {
+    "id": 4,
+    "username": "Susan",
+    "age": 26,
+    "email": "suzz26@gmail.com",
+    "sex": "female",
+    "password": "345678"
+  },
+  {
+    "id": 5,
+    "username": "Chinedu",
+    "age": 24,
+    "email": "chifourty@gmail.com",
+    "sex": "male",
+    "password": "098765"
+  },
+  {
+    "id": 6,
+    "username": "Anabel",
+    "age": 30,
+    "email": "anabella@gmail.com",
+    "sex": "female",
+    "password": "456789"
+  },
+  {
+    "id": 7,
+    "username": "Dominion",
+    "age": 30,
+    "email": "dominion3@gmail.com",
+    "sex": "male",
+    "password": "123456"
+  },
+  {
+    "id": 8,
+    "username": "Friday",
+    "age": 65,
+    "email": "friday@gmail.com",
+    "sex": "male",
+    "password": "876543"
+  },
+  {
+    "id": 9,
+    "username": "friday",
+    "age": 40,
+    "email": "prichi@gmail.com",
+    "sex": "male",
+    "password": "$2b$10$5iF9BS3AYCk4SM34LNuBAexPvpPJk2DGomUbDqe7XtdnbvGHSRmTu"
+  }
+]
